@@ -1,0 +1,9 @@
+.welcome{
+    display: flex;
+}
+.orange{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+}
